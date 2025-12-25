@@ -1,0 +1,4 @@
+# file: /www/wwwroot/fm.liy.ink/audio-service/app/config.py
+# hypothesis_version: 6.148.8
+
+[180, 300, 500, 720, 1000, 5000, 65535, 10485760, '/tmp', '/tmp/hls', '/usr/bin/ffmpeg', '0.0.0.0', '1', '128k', 'AUDIO_SERVICE_DEBUG', 'AUDIO_SERVICE_HOST', 'AUDIO_SERVICE_PORT', 'FFMPEG_PATH', 'HLS_OUTPUT_DIR', 'IDLE_TIMEOUT', 'INFO', 'LOCK_DIR', 'MIN_FREE_SPACE_MB', '\\n', 'aac', 'audio', 'audio_codec', 'bitrate', 'check_interval', 'cleanup', 'cleanup_interval', 'concurrency', 'config.yaml', 'debug', 'disk_check_interval', 'error_handling', 'fast', 'ffmpeg', 'hls', 'host', 'idle_process', 'interval', 'lock_dir', 'lock_timeout', 'log_level', 'max_age', 'max_error_history', 'max_log_size', 'min_free_space_mb', 'network_retry_delay', 'on', 'output_dir', 'path', 'playlist.m3u8', 'playlist_name', 'port', 'preset', 'r', 'segment_', 'segment_duration', 'segment_list_size', 'segment_prefix', 'service', 'timeout', 'true', 'tune', 'utf-8', 'yes']

@@ -1,0 +1,4 @@
+# file: /www/wwwroot/fm.liy.ink/audio-service/app/process_manager.py
+# hypothesis_version: 6.148.8
+
+['+global_header', '-analyzeduration', '-apad', '-avoid_negative_ts', '-b:a', '-bufsize', '-c:a', '-copyts', '-f', '-fflags', '-flags', '-hls_allow_cache', '-hls_flags', '-hls_list_size', '-hls_playlist_type', '-hls_time', '-i', '-loglevel', '-maxrate', '-minrate', '-mpegts_flags', '-probesize', '-reconnect', '-reconnect_delay_max', '-reconnect_streamed', '-timeout', '-user_agent', '1', '10', '10000000', '15', '160k', '2', '2048', '384k', '404 Not Found', '8000000', '96k', 'Connection refused', 'Connection timed out', 'HTTP error', 'Input/output error', 'TLS fatal alert', 'Unknown error', 'cmdline', 'crashed_pid', 'error', 'event', 'ffmpeg', 'hls', 'make_zero', 'name', 'pid', 'process_crashed', 'process_start_failed', 'replace', 'return_code', 'running', 'segment_%03d.ts', 'starting', 'stderr_output', 'stopped', 'stream_url', 'utf-8', 'warning', '名称或服务未知']

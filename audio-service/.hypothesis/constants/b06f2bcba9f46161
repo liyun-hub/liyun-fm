@@ -1,0 +1,4 @@
+# file: /www/wwwroot/fm.liy.ink/audio-service/app/routes.py
+# hypothesis_version: 6.148.8
+
+[100, 200, 400, 404, 405, 409, 500, 503, '/api/cleanup', '/api/errors', '/api/health', '/api/processes', '/api/status', 'Endpoint not found', 'GET', 'Method not allowed', 'POST', 'Process not found', 'additional_info', 'channel_id', 'code', 'data', 'error', 'error_message', 'error_type', 'hls_output_dir', 'last_activity_time', 'lines', 'logs', 'message', 'minutes', 'overall_status', 'pid', 'processes', 'recent_errors', 'recovery_attempted', 'recovery_successful', 'start_time', 'statistics', 'status', 'stopped', 'stream_url', 'success', 'time_range_minutes', 'timestamp', 'total', 'updated_at', 'warning']

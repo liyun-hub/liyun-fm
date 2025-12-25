@@ -1,0 +1,4 @@
+# file: /www/wwwroot/fm.liy.ink/audio-service/app/__init__.py
+# hypothesis_version: 6.148.8
+
+['DEBUG', 'audio_service.log', 'urllib3', 'werkzeug']

@@ -1,0 +1,4 @@
+# file: /www/wwwroot/fm.liy.ink/audio-service/app/idle_process_monitor.py
+# hypothesis_version: 6.148.8
+
+[300, 'IdleProcessMonitor', 'ProcessManager', 'check_interval', 'idle_timeout', 'running', 'thread_alive']

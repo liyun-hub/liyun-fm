@@ -1,0 +1,15 @@
+[Unit]
+Description=Python Audio Stream Service
+After=network.target
+
+[Service]
+User=www
+WorkingDirectory=/www/wwwroot/fm.liy.ink/audio-service
+ExecStart=/usr/bin/python3 run.py
+Restart=always
+RestartSec=5
+Environment=PATH=/usr/bin:/usr/local/bin
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

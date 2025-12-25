@@ -1,0 +1,4 @@
+# file: /www/wwwroot/fm.liy.ink/audio-service/app/resource_cleaner.py
+# hypothesis_version: 6.148.8
+
+[180, 720, '.m3u8', '.ts', 'ResourceCleaner', 'cleanup_interval', 'deleted_files', 'errors', 'hls_output_dir', 'max_age', 'message', 'running', 'segment_', 'success', 'thread_alive', 'total_files']

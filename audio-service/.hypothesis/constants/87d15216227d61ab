@@ -1,0 +1,4 @@
+# file: /www/wwwroot/fm.liy.ink/audio-service/app/concurrency_control.py
+# hypothesis_version: 6.148.8
+
+[420, '.lock', '/tmp', 'channel_id', 'ffmpeg_lock_', 'ffmpeg_lock_*.lock', 'lock_file', 'pid', 'r', 'timestamp']
